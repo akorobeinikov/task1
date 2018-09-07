@@ -1,7 +1,7 @@
-#inclufe <iostream>
+#include <iostream>
 using namespace std;
-
 int main()
 {
-cout<<"Hello";
+    cout<<"Alex_di";
+    return 0;
 }
